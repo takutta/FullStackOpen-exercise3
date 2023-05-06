@@ -1,0 +1,4 @@
+.env
+.vscode
+fly.toml
+node_modules
